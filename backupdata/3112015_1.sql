@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM datalatih WHERE sentiment='netral'
